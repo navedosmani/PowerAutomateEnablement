@@ -1,0 +1,2 @@
+substring(item()?['{Link}'],0,indexOf(item()?['{Link}'],'?d'))
+
